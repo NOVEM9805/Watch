@@ -1,0 +1,1 @@
+{"name":"timeless-sight/store","description":"Timeless Sight PHP/MySQL watch shop","type":"project","require":{"php":">=8.1","phpmailer/phpmailer":"^6.9"}}

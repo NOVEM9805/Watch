@@ -1,0 +1,8 @@
+.env
+/vendor/
+/storage/logs/*
+!/storage/logs/.gitkeep
+/uploads/watches/*
+!/uploads/watches/.gitkeep
+/uploads/promotions/*
+!/uploads/promotions/.gitkeep
